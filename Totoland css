@@ -1,0 +1,83 @@
+html{
+    background-color:blue;
+}
+div{
+    display:block;
+    background-color:red;
+    border:5px solid black;
+    text-align:center;
+    padding:10px 10px 10px 10px;
+}
+div:hover{
+    border:5px solid yellow;
+    background-color:pink;
+}
+h1{
+    font-family:fantasy;
+    text-align:center;
+    font-size:60px;
+}
+#home{
+    font-size:40px;
+}
+p{
+    display:inline;
+    font-size:30px;
+    font-family:fantasy;
+    font-weight:900;
+}
+#o{
+    position:fixed;
+
+}
+#t{
+    position:fixed;
+    margin-left:76.442px;
+}
+#th{
+    position:fixed;
+    margin-left:180px;
+}
+#f{
+    position:fixed;
+    margin-left:280px;
+}
+.currency{
+    text-align:center;
+}
+ul{
+    font-size:25px;
+}
+a{
+    color:black;
+}
+.intro{
+    font-size:25px;
+}
+#th:hover{
+    border:5px solid red;
+}
+
+
+#special{
+    background-color:purple;
+    height:45px;
+    width:390px;
+    position:fixed;
+}
+#special:hover{
+        border:5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
